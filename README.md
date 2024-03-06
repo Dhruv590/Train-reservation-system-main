@@ -1,5 +1,5 @@
-# Bon Voyage: Flight booking System Web Application
-This comprehensive full-stack application utilizes Java Spring Boot and ReactJS, powered by Node v12.0.0 and npm v7.19.0. The integration of Google OAuth ensures robust authentication, complemented by efficient SQL data management through Workbench. The outcome is an intuitive and user-friendly interface that streamlines the flight booking and management process. Elevate your travel experience with this seamlessly integrated solution.
+# Rail Express: Train booking System Web Application
+This comprehensive full-stack application utilizes Java Spring Boot and ReactJS, powered by Node v12.0.0 and npm v7.19.0. The integration of Google OAuth ensures robust authentication, complemented by efficient SQL data management through Workbench. The outcome is an intuitive and user-friendly interface that streamlines the Train booking and management process. Elevate your travel experience with this seamlessly integrated solution.
 
 <br/>
 
@@ -41,7 +41,7 @@ npm audit fix --force
 <br/>
 
 ## Queries Creation
-Run the queries in `insert_query.txt` to create flights and seats for passengers. Modify this as per flights and requirements.
+Run the queries in `insert_query.txt` to create Trains and seats for passengers. Modify this as per Trains and requirements.
 
 <br/>
 
@@ -60,8 +60,8 @@ Run the queries in `insert_query.txt` to create flights and seats for passengers
 <br/>
 
 ## Frontend Web Pages
-#### Flight Search Page
-![Alt text](<Flight Search.jpg>)
+#### Train Search Page
+![Alt text](<Train Search.jpg>)
 
 <br/>
 
@@ -83,7 +83,7 @@ Run the queries in `insert_query.txt` to create flights and seats for passengers
 
 <br/>
 
-#### Flight Seat Booking Confirmation
+#### Train Seat Booking Confirmation
 ![Alt text](<Booking Confirmation.jpg>) 
 
 <br/>
@@ -94,8 +94,8 @@ Run the queries in `insert_query.txt` to create flights and seats for passengers
 <br/>
 
 #### Admin Pages
-![Alt text](<Admin All Flights.JPEG>) 
-![Alt text](<Reservation List for Flight.jpg>) 
-![Alt text](<Update Flight.JPEG>)  
+![Alt text](<Admin All Trains.JPEG>) 
+![Alt text](<Reservation List for Train.jpg>) 
+![Alt text](<Update Train.JPEG>)  
 
 <br/>
